@@ -1,2 +1,10 @@
-# mastermind-game
-Gra mastermind z zajęć TSW
+﻿# Sposób użycia
+
+Pobranie zależności:
+
+    npm install
+    bower install
+
+Uruchomienie serwera:
+
+    npm start
